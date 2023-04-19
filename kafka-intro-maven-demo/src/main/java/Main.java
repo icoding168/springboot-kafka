@@ -10,7 +10,7 @@ import java.util.Collections;
 import java.util.concurrent.ExecutionException;
 
 public class Main {
-    private static final String TOPIC = "test-topic";
+    private static final String TOPIC = "test";
 
     public static void main(String[] args) {
         sendMessage();

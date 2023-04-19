@@ -2,7 +2,7 @@ server:
   port: 9090
 spring:
   kafka:
-    bootstrap-servers: localhost:9092
+    bootstrap-servers: vmhost:9092
 kafka:
   topics:
     - name: topic1
